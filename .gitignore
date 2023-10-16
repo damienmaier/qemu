@@ -22,4 +22,4 @@ GTAGS
 *.patch
 *.gcov
 
-work/a.out
+work/crosscompiled
