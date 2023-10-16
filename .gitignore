@@ -21,3 +21,5 @@ GTAGS
 *.swp
 *.patch
 *.gcov
+
+work/a.out
