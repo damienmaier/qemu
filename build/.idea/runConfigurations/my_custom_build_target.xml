@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="my_custom_build_target" type="CLionExternalRunConfiguration" factoryName="Application" nameIsGenerated="true" PROGRAM_PARAMS="crosscompiled" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$/../work" PASS_PARENT_ENVS_2="true" PROJECT_NAME="build" TARGET_NAME="my_custom_build_target" CONFIG_NAME="my_custom_build_target" RUN_PATH="$PROJECT_DIR$/qemu-aarch64">
+    <method v="2">
+      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
